@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am currently learning React , Firebase and the .NET framework<br>I am well experienced in Node, Express, Javascript and Tailwind<br>My hobbies include football, cricket and coding <3<br>I have a knack of building products too!
+<br>I am currently learning React , Firebase and the .NET framework<br>I am well experienced in Node, Express, Javascript and Tailwind<br>My hobbies include football, cricket and coding <3<br>
 
 
 ## 🌐 Socials:
